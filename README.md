@@ -15,14 +15,36 @@ This app build with Next JS 15, React 19, Tailwind CSS, Redux, Redux Tool Kit, R
 - Optimistic updates for better UX
 
 
-## Installation
 
-Install my-project with pnpm
+## Run Locally
+
+Clone the project
 
 ```bash
-  pnpm install my-project
-  cd my-project
+  git clone https://link-to-project
 ```
+
+Go to the project directory
+
+```bash
+  cd todos
+  cd fe
+  cd be
+```
+
+Install dependencies
+
+```bash
+  pnpm install
+```
+
+Start the server
+
+```bash
+  pnpm run start or pnpm run dev
+```
+
+
     
 
 
