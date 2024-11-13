@@ -21,7 +21,7 @@ This app build with Next JS 15, React 19, Tailwind CSS, Redux, Redux Tool Kit, R
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/thomaswinchestar/todos.git
 ```
 
 Go to the project directory
