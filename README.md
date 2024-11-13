@@ -15,4 +15,14 @@ This app build with Next JS 15, React 19, Tailwind CSS, Redux, Redux Tool Kit, R
 - Optimistic updates for better UX
 
 
+## Installation
+
+Install my-project with pnpm
+
+```bash
+  pnpm install my-project
+  cd my-project
+```
+    
+
 
